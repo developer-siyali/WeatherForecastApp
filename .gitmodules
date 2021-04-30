@@ -1,0 +1,3 @@
+[submodule "app/src"]
+	path = app/src
+	url = https://developer-siyali@github.com/developer-siyali/OpenWeatherForecast

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Weather Map App</string>
+    <string name="title_activity_wether_map_locations">Map</string>
+    <string name="open">Open</string>
+    <string name="closed">Closed</string>
+    <string name="view_all_location">View All Locations on Map</string>
+    <string name="view_favourite_location">View Favourite Locations</string>
+    <string name="add_location">Add Location</string>
+    <string name="get_your_location">Get Your Location</string>
+    <string name="Minimum">min</string>
+    <string name="Current">Current</string>
+    <string name="Max">max</string>
+    <string name="location_not_found">Location Not Found</string>
+    <string name="enter_location">Enter City and Country Name</string>
+    <string name="search_location">Search For Location</string>
+</resources>
